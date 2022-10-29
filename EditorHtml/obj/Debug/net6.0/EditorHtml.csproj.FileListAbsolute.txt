@@ -1,0 +1,15 @@
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/bin/Debug/net6.0/EditorHtml
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/bin/Debug/net6.0/EditorHtml.deps.json
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/bin/Debug/net6.0/EditorHtml.runtimeconfig.json
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/bin/Debug/net6.0/EditorHtml.dll
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/bin/Debug/net6.0/EditorHtml.pdb
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.AssemblyReference.cache
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/obj/Debug/net6.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfoInputs.cache
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfo.cs
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.CoreCompileInputs.cache
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/obj/Debug/net6.0/EditorHtml.dll
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/obj/Debug/net6.0/refint/EditorHtml.dll
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/obj/Debug/net6.0/EditorHtml.pdb
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/obj/Debug/net6.0/EditorHtml.genruntimeconfig.cache
+/Users/eduardoalbertosomacal/Documents/GitHub/Editor_HTML/EditorHtml/obj/Debug/net6.0/ref/EditorHtml.dll
